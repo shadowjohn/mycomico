@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="zh-tw" class="o-section-bg-03">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/website#">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+
+<link rel="stylesheet" href="https://static.comico.com.tw/tw/syn/spn/css/core.v02.syn20180412.css" media="screen" />
+
+<!--[if lt IE 9]>
+<script src="https://static.comico.com.tw/tw/syn/mod/lib/html5shiv-3.6.2.js"></script>
+<![endif]-->
+
+<title>誰來說明一下狀況！~公爵邸的契約嬌妻~ | 木野咲kazura・徒然花 - comico全彩長條漫畫</title>
+
+<script src="https://static.comico.com.tw/tw/syn/extra_tw/js/tw.18.pop.js" ></script>
+
+<link rel="apple-touch-icon-precomposed" href="https://comicimg.comico.com.tw/tmb/3890/34217c3e_1597304372985.jpg">
+<meta name="format-detection" content="telephone=no" />
+<meta name="keywords" content="comico,誰來說明一下狀況！~公爵邸的契約嬌妻~,木野咲kazura・徒然花,愛情,中篇故事,劇情,奇幻,漫畫,webtoon,全彩漫畫,素人漫畫,台灣漫畫,日本漫畫,韓國漫畫,泰國漫畫,長條漫畫,滑漫,條漫" />
+<meta name="description" content="窮困落魄的貴族小姐薇奧拉忽然被富有又帥氣的的公爵提出了「求婚的契約」——只要薇奧拉做個「名份上的妻子」，讓公爵和情婦可以無憂無慮地相處在一起，她就可以不愁吃穿地過一生。聽到這麼好康的婚事薇奧拉便一口答應了…">
+
+
+<!-- facebook og -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="誰來說明一下狀況！~公爵邸的契約嬌妻~ | 木野咲kazura・徒然花 | comico全彩長條漫畫">
+<meta property="og:description" content="窮困落魄的貴族小姐薇奧拉忽然被富有又帥氣的的公爵提出了「求婚的契約」——只要薇奧拉做個「名份上的妻子」，讓公爵和情婦可以無憂無慮地相處在一起，她就可以不愁吃穿地過一生。聽到這麼好康的婚事薇奧拉便一口答應了…">
+<meta property="og:url" content="https://www.comico.com.tw/3890/">
+<meta property="og:image" content="https://comicimg.comico.com.tw/tmb/3890/34217c3e_1597304372985.jpg">
+<meta property="og:site_name" content="comico">
+<meta property="fb:app_id" content="1496284297271071">
+
+<link rel="canonical" href="https://www.comico.com.tw/3890/" />
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "https://www.comico.com.tw/",
+        "name": "comico"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "",
+        "name": "漫畫"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item":
+      {
+        "@id": "",
+        "name": "官方作品"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item":
+      {
+        "@id": "https://www.comico.com.tw/3890/",
+        "name": "誰來說明一下狀況！~公爵邸的契約嬌妻~"
+      }
+    }
+  ]
+}
+</script>
+<script>
+var cmnData = {
+  lcs:{
+  	TID:"3890",
+    ArID:"na",
+    AtID:"na",
+	UID:"na",
+  	DID:"pc"
+  },
+  titleNo:'3890',
+  api:{
+    
+    articleListAPI: 'https://www.comico.com.tw/api/getArticleList.nhn',
+    
+    addFavoriteAPI: 'https://www.comico.com.tw/api/addFavorite.nhn',
+    delFavoriteAPI: 'https://www.comico.com.tw/api/deleteFavorites.nhn'
+  },
+  url:{
+
+	storeurl:"https://play.google.com/store/apps/details?id=tw.comico",
+
+	appurl:'comicotw://articlelist?titleno=3890&cf=N&push=Y',
+    helpurl:'http://static.comico.com.tw/tw/extra/about_rental_ticket/index.html'
+  },
+  time:{
+
+	leftTime:518400,
+
+	maxTime:518400
+　　},
+
+  eventRentalTicket:0,
+
+  user:{
+	
+  },
+  status:{
+	favorite:'0'
+  }
+}
+</script><!-- head: Facebook Pixel Code -->
+<script>
+if(typeof fbq === 'undefined') {
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '876877612348066');
+fbq('track', 'PageView');
+
+	fbq('track', "AddToWishlist");
+
+} else {
+
+	fbq('track', "AddToWishlist");
+
+}
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=876877612348066&ev=PageView&noscript=1"
+/></noscript>
+<!-- head: End Facebook Pixel Code --><!-- head: Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T3D8Q8');</script>
+<!-- head: End Google Tag Manager --></head>
+<!--[if IE 7 ]><body class="ie ie7"><![endif]-->
+<!--[if IE 8 ]><body class="ie ie8"><![endif]-->
+<!--[if IE 9 ]><body class="ie ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><body class="o-section-bg-03"><!--<![endif]-->
+<!-- body: Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3D8Q8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- body: End Google Tag Manager (noscript) -->
+
+<!-- body: Facebook Analytics -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1496284297271071',
+      xfbml      : true,
+      version    : 'v2.10'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/zh_TW/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- body: End Facebook Analytics --><link rel="stylesheet" href="https://static.comico.com.tw/tw/extra_tw/phone_verification/css/block.css" media="screen" />
+
+<!-- <script src="https://static.comico.com.tw/tw/syn/extra_tw/js/tw.18.pop.js" ></script> -->
+
+<script>
+var showFlg = false;
+var url = 'https://www.comico.com.tw';
+
+
+if("undefined" == typeof cmnData) {
+	var cmnData = {
+			popup:{
+				show: showFlg,
+				yes: '',
+				no: url
+			}
+		};
+} else {
+	var popup ={
+		show: showFlg,
+		yes: '',
+		no: url
+	}
+	cmnData['popup'] = popup
+}
+
+</script>
+<div class="home-popup" style="display:none;">
+  <div class="popupCon">
+    <p><img src="https://images.comico.com.tw/tw/extra_tw/phone_verification/warning.png" alt="!" width="128" height="128" /></p>
+    <h2>年齡確認您是否已滿18歲？</h2>
+    <p class="txt-notes">本平台的部分作品包含成人內容，<br>請確認您的年齡已達法定年齡。</p>
+    <ul class="btnPopup">
+      <li><a href="#">是<span>我已滿18歲</span></a></li>
+      <li><a href="#">否<span>我未滿18歲</span></a></li>
+    </ul>
+</div>
+</div><!-- 使用者條款更新_通知功能 -->
+<div class="stage o-section-bg-03">
+
+<div class="add-homescreen02 o-hidden _addHomescreenAndroid">
+	<div class="add-homescreen02__inner">
+		<p class="add-homescreen02__icon" style="background-image: url(https://comicimg.comico.com.tw/tmb/3890/34217c3e_1597304372985.jpg);"></p>
+		<p class="o-hidden">「加入主畫面」隨時回來閱讀最新作品！</p>
+		<p class="add-homescreen02__arrow"><i class="i-arrow"></i></p>
+		<button class="add-homescreen02__btn-close" title="關閉"><i class="i-close"></i></button>
+	</div>
+<!-- /.add-homescreen02 --></div>
+
+<div class="stage__body o-section-bg-03">
+
+<header class="comico-global-header" role="navigation">
+  <div class="bnr-flex bnr-flex--w640 o-small-screen-object">
+  	<a href="https://www.comico.com.tw/appExeRedirectForBanner.nhn?type=top&page=list&titleNo=3890"><img src="https://images.comico.com.tw/tw/syn/spn/bnr/install_01.png" alt="" class="bnr-flex__img"></a>
+  </div>
+  <div class="comico-global-header__wrapper comico-global-header__wrapper--bg-red _globalHeader">
+    <div class="comico-global-header__main comico-global-header__main--bg-red">
+      <div class="comico-global-header__main-action1">
+        <ul class="comico-global-header__list-action">
+          <li class="comico-global-header__list-action-item ">
+            <a href="https://www.comico.com.tw/" class="comico-global-header__list-action-item-inner">
+              <i class="i-home02 o-small-screen-object"></i>
+              <img src="https://images.comico.com.tw/tw/syn/spn/logo/comico_logo_02.png" alt="comico" width="138" height="26" class="o-large-screen-object comico-global-header__logo-comicoplus" />
+            </a>
+          </li>
+          <li class="comico-global-header__list-action-item comico-global-header__list-action-item--separate-left">
+            <a href="https://www.comico.com.tw/official/" class="comico-global-header__list-action-item-inner on">
+	            官方作品
+            </a>
+          </li>
+          <li class="comico-global-header__list-action-item">
+            <a href="https://www.comico.com.tw/challenge/" class="comico-global-header__list-action-item-inner">
+	            新手村
+            </a>
+          </li>
+          <!-- 
+          <li class="comico-global-header__list-action-item">
+            <a href="https://www.comico.com.tw/store/" class="comico-global-header__list-action-item-inner">
+	            Store
+		        <span class="comico-global-header__list-action-item-icon"><i class="i-new o-small-screen-object"></i><i class="comico-global-header__list-action-item-icon-label o-large-screen-object">N</i></span>
+		        </a>
+          </li>
+           -->
+        </ul>
+      </div>
+      <div class="comico-global-header__main-action2">
+        <ul class="comico-global-header__list-action">
+	        <li class="comico-global-header__list-action-item o-large-screen-object">
+          	<form action="https://www.comico.com.tw/search/index.nhn" class="" method="get">
+	          	<div class="comico-global-header__search02">
+	            	<input type="text" id="inHeaderSearchForm" class="comico-global-header__search02-input" name="searchWord" required="" value="" autocomplete="off" />
+		            <input type="submit" class="i-search03 comico-global-header__search02-submit" />
+	          	</div>
+          	</form>
+          </li>
+          <li class="comico-global-header__list-action-item o-small-screen-object">
+            <label for="globalSearchInput" class="comico-global-header__list-action-item-inner _toggleSearchLayer">
+              <i class="i-search03"></i>
+            </label>
+          </li>
+          <li class="comico-global-header__list-action-item comico-global-menu-wrapper">
+            <button type="button" class="comico-global-header__list-action-item-inner _toggleGlobalMenu" title="選單">
+              <i class="i-menu04 o-small-screen-object"></i>
+        </button>
+
+<div class="comico-global-menu _toggleGlobalMenu" role="banner">
+  <div class="comico-global-menu__body">
+    <button class="comico-global-menu__btn-close" title="關閉"><i class="i-close"></i></button>
+    <div class="comico-global-menu__body-inner">
+      <div class="comico-global-menu__body-inner2">
+        <div class="comico-global-menu__home">
+          <div class="comico-global-menu__home-brand">
+            <a href="https://www.comico.com.tw/" class="comico-global-menu__home-brand-inner">
+              <img src="https://images.comico.com.tw/tw/syn/spn/logo/comico_logo_01.png" height="20" alt="comico" />
+            </a>
+          </div>
+        </div>
+        <div class="comico-global-menu__nav-guest">
+          <ul class="comico-global-menu__nav-guest-list">
+            <li class="comico-global-menu__nav-guest-item">
+              <a href="https://id.comico.com.tw/login/index.nhn?nexturl=https%3a%2f%2fwww.comico.com.tw%2farticleList.nhn%3ftitleNo%3d3890" class="btn03 btn03--block">登入</a>
+            </li>
+            <li class="comico-global-menu__nav-guest-item">
+              <a href="https://id.comico.com.tw/register/index.nhn?nexturl=https://www.comico.com.tw" class="btn03 btn03--block">免費會員註冊</a>
+            </li>
+          </ul>
+        <!-- /.comico-global-menu__nav-guest --></div>
+        <nav class="comico-global-menu__nav" itemtype="http://www.schema.org/SiteNavigationElement" itemscope>
+        <ul class="comico-global-menu__nav-list">
+        <li class="comico-global-menu__nav-item">
+            <!-- 
+              <a href="https://id.comico.com.tw/login/index.nhn?nexturl=https://www.comico.com.tw/bookshelf/" class="comico-global-menu__nav-item-inner" itemprop="url">
+             --> 
+              <a href="https://id.comico.com.tw/login/index.nhn?nexturl=https://www.comico.com.tw/bookshelf/" class="comico-global-menu__nav-item-inner" itemprop="url">
+                <span class="comico-global-menu__nav-item-label" itemprop="name">書報攤</span> </a>
+            </li>
+          <li class="comico-global-menu__nav-item">
+              <a href="https://www.comico.com.tw/notice/" class="comico-global-menu__nav-item-inner" itemprop="url">
+                <span class="comico-global-menu__nav-item-label" itemprop="name">最新消息</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <nav class="comico-global-menu__nav">
+          <ul class="comico-global-menu__nav-list">
+            <li class="comico-global-menu__nav-item o-border-top02"> 
+              <a href="https://www.comico.com.tw/webonly/" class="comico-global-menu__nav-item-inner"> 
+                <span class="comico-global-menu__nav-item-label">網頁限定</span>
+                <span class="comico-global-menu__nav-item-icon"><i class="i-arrow-r i-arrow-r--large"></i></span> 
+              </a> 
+            </li>
+            </ul>
+        <!-- /.comico-global-menu__nav --></nav>
+        <div class="comico-global-menu__family-app">
+          <ul class="comico-global-menu__family-app-list">
+            <li class="comico-global-menu__family-app-item">
+              <a href="https://www.comico.com.tw/appExeRedirectForBanner.nhn?type=menu" class="comico-global-menu__family-app-item-inner">
+                <p class="comico-global-menu__family-app-icon"><img src="https://images.comico.com.tw/tw/app/appicon/comico.png" width="44" height="44" alt="" /></p>
+                <p class="comico-global-menu__family-app-label">comico</p>
+              </a>
+            </li>
+          </ul>
+        <!-- /.comico-global-menu__family-app --></div>
+        </div>
+    </div>
+  </div>
+<!-- /.comico-global-menu --></div>
+</li>
+        <li class="comico-global-header__list-action-item o-large-screen-object">
+            <div for="globalSearchInput" class="comico-global-header__list-action-item-inner">
+              <a href="https://id.comico.com.tw/login/index.nhn?nexturl=https%3a%2f%2fwww.comico.com.tw%2farticleList.nhn%3ftitleNo%3d3890" class="comico-global-header__item-btn comico-global-header__item-btn--white">登入</a>
+            </div>
+          </li>
+        <li class="comico-global-header__list-action-item o-large-screen-object">
+            <div for="globalSearchInput" class="comico-global-header__list-action-item-inner"> 
+              <a href="https://www.comico.com.tw/webonly/" class="comico-global-header__item-btn comico-global-header__item-btn--white">網頁限定 &gt;</a>
+              </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="comico-global-header__wrapper _globalHeader o-large-screen-object">
+    <nav class="comico-global-header__sub" itemtype="http://www.schema.org/SiteNavigationElement" itemscope="">
+      <div class="comico-global-header__sub-category _globalHeaderSubCategory comico-global-header__sub-category--flex" style="opacity: 1;">
+        <div class="comico-global-header__sub-category-inner">
+          <ul class="comico-global-header__sub-category-list">
+          <li class="comico-global-header__sub-category-item _globalHeaderSubCategoryItem
+              " itemprop="name">
+              <a href="https://www.comico.com.tw/official/" class="comico-global-header__sub-category-item-inner" itemprop="url">日期</a>
+            </li>
+          <li class="comico-global-header__sub-category-item _globalHeaderSubCategoryItem
+              " itemprop="name">
+              <a href="https://www.comico.com.tw/ranking/"
+                class="comico-global-header__sub-category-item-inner" itemprop="url">排行榜</a>
+            </li>
+            <li class="comico-global-header__sub-category-item _globalHeaderSubCategoryItem
+              " itemprop="name">
+              <a href="https://www.comico.com.tw/genres/"
+                class="comico-global-header__sub-category-item-inner" itemprop="url">類別</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>
+<!-- /.comico-global-header --></header>
+
+<div class="article-hero05" style="background-color: #92dffb;">
+  <div class="article-hero05__spacer"><img src="https://comicimg.comico.com.tw/tmb/3890/34217c3e_1597304393243.jpg" alt="" width="100%"></div>
+  <div class="article-hero05__inner5">
+    <div class="article-hero05__inner">
+      <div class="article-hero05__inner2" style="background-image: url(https://comicimg.comico.com.tw/tmb/3890/34217c3e_1597304393243.jpg);">
+      <div class="article-hero05__inner3">
+          <div class="article-hero05__inner4">
+            <h1 class="article-hero05__ttl">誰來說明一下狀況！~公爵邸的契約嬌妻~</h1>
+            <p class="article-hero05__author"><a href="https://www.comico.com.tw/author/3194/">木野咲kazura・徒然花</a></p>
+            <p class="article-hero05__description">合約內容可沒有說你能愛上我<br/></p>
+            <ul class="article-hero05__list-btn">
+            			<li class="article-hero05__list-btn-item"><button class="btn03 btn03--small btn03--white _toggleArticleInfo">作品情報</button></li>
+						</ul>
+          </div>
+        </div>
+      </div>
+      <div class="article-hero05__sub">
+	      <div class="article-hero05__sub-inner">
+		      <div class="article-hero05__sub-inner2">
+			<div class="article-hero05__meta">
+				<p>不定期連載/每週五</p><p>
+				<a href="https://www.comico.com.tw/genres/romance/">愛情</a>
+					・中篇故事・<a href="https://www.comico.com.tw/genres/drama/">劇情</a>
+					・<a href="https://www.comico.com.tw/genres/fantasy/">奇幻</a>
+					</p>
+			      </div>
+				<p class="article-hero05__sub-description">窮困落魄的貴族小姐薇奧拉忽然被富有又帥氣的的公爵提出了「求婚的契約」——只要薇奧拉做個「名份上的妻子」，讓公爵和情婦可以無憂無慮地相處在一起，她就可以不愁吃穿地過一生。聽到這麼好康的婚事薇奧拉便一口答應了…<br/></p>
+            			</div>
+	      </div>
+      </div>
+    </div>
+  </div>
+<!-- /.article-hero05 --></div>
+
+<div class="article-info03 _articleInfo">
+  <div class="article-info03__inner">
+    <div class="o-mb7">
+	<dl class="article-info03__info o-txt-orange">
+	<dt class="article-info03__info-title">更新日期：</dt>
+	<dd class="article-info03__info-value">不定期連載/每週五</dd></dl>
+	<dl class="article-info03__info o-txt-blue">
+        <dt class="article-info03__info-title">類別：</dt>
+        <dd class="article-info03__info-value">
+				<a href="https://www.comico.com.tw/genres/romance/">愛情</a>
+					・中篇故事・<a href="https://www.comico.com.tw/genres/drama/">劇情</a>
+					・<a href="https://www.comico.com.tw/genres/fantasy/">奇幻</a>
+					</dd>
+      </dl>
+    </div>
+    <div class="article-info03__discription">窮困落魄的貴族小姐薇奧拉忽然被富有又帥氣的的公爵提出了「求婚的契約」——只要薇奧拉做個「名份上的妻子」，讓公爵和情婦可以無憂無慮地相處在一起，她就可以不愁吃穿地過一生。聽到這麼好康的婚事薇奧拉便一口答應了…<br/></div>
+	<button class="article-info03__btn-close _toggleArticleInfo"><i class="i-arrow-u i-arrow-u--large"></i></button>
+  </div>
+<!-- /.article-info03 --></div>
+
+<div class="action-bar">
+  <ul class="action-bar__list">
+    <li class="action-bar__item">
+      <button type="button" class="action-bar__item-inner _sortArticleListBtn">
+        <p class="action-bar__icon"><i class="i-sort"></i></p>
+        <p class="action-bar__label">變更排序</p>
+      </button>
+    </li>
+    <li class="action-bar__item">
+      <button type="button" class="action-bar__item-inner _favBtn">
+        <p class="action-bar__icon"><i class="i-favorite02"></i></p>
+        <!-- <p class="action-bar__icon"><i class="i-favorite02-active"></i></p> -->
+        <p class="action-bar__label">我的最愛</p>
+      </button>
+    </li>
+    <li class="action-bar__item">
+      <button type="button" class="action-bar__item-inner _shareButton">
+        <p class="action-bar__icon"><i class="i-share"></i></p>
+        <p class="action-bar__label">分享</p>
+      </button>
+      <ul class="action-bar__sub-menu _shareMenu">
+		<li class="action-bar__sub-menu-item">
+			<a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.comico.com.tw%2f3890%2f" target="_blank"><img src="https://images.comico.com.tw/tw/syn/spn/btn/facebook_01.png" alt="" width="43" height="43" /></a>
+		</li>
+      </ul>
+    </li>
+  </ul>
+<!-- /.action-bar --></div>
+
+<div class="ticket-status _ticketStatus o-border-bottom02">
+	<div class="ticket-status__inner3">
+<div class="ticket-status__inner ticket-status__inner--main">
+	    <div class="ticket-status__inner2">
+	      <div class="ticket-status__area-icon">
+	        <p class="ticket-status__icon _iconArea">
+	          <img src="https://images.comico.com.tw/tw/syn/spn/common/rental_ticket_01.png" width="40" height="27" alt="無料" class="ticket-status__icon-img" />
+	        </p>
+	      </div>
+		<div class="ticket-status__area-body">
+				<p>登入後，每週一話免費！</p>
+			</div>
+			<div class="ticket-status__area-login">
+				<a href="https://id.comico.com.tw/login/index.nhn?nexturl=https%3a%2f%2fwww.comico.com.tw%2f3890%2f" class="btn03 btn03--small">登入</a>
+			</div>
+		</div>
+	  </div>
+<div class="ticket-status__inner ticket-status__inner--sub">
+	    <div class="ticket-status__inner2">
+	</div>
+	  </div>
+	</div>
+<!-- /.ticket-status --></div>
+
+<div class="list-episode02">
+  <ul class="list-episode02__list _articleList">
+  </ul>
+<!-- /.list-episode02 --></div>
+
+<div class="view-more02 o-mt15 o-mb15 o-hidden _moreLoad">
+	<a href="/" class="view-more02__btn">更多</a>
+<!-- /.view-more02 --></div>
+
+<!--  div class="bnr-flex">
+	<p><a href="/" class="bnr-flex__inner"><img src="https://images.comico.com.tw/tw/up/r01/bnap/App_sp_984x393_6title_150805.jpg" alt="" class="bnr-flex__img"></a></p>
+<!-- /.bnr-flex --</div -->
+
+<div class="add-homescreen o-mt20 o-hidden _balloon">
+	<div class="add-homescreen__balloon">
+		<div class="add-homescreen__inner">
+			<p class="add-homescreen__icon" style="background-image: url(https://comicimg.comico.com.tw/tmb/3890/34217c3e_1597304372985.jpg);"></p>
+			<p class="o-hidden">「加入主畫面」隨時回來閱讀最新作品！</p>
+			<button class="add-homescreen__btn-close" title="關閉"><i class="i-close"></i></button>
+		</div>
+	</div>
+<!-- /.add-homescreen --></div>
+
+<div class="modalbox02 _aboutRentalTicketModal">
+	<div class="modalbox02__overlay"></div>
+	<div class="modalbox02__window">
+		<div class="modalbox02__body">
+			<div class="modalbox02__iframe-wrapper">
+				<iframe src="https://static.comico.com.tw/tw/extra/about_rental_ticket/index.html" frameborder="0" class="modalbox02__iframe"></iframe>
+			</div>
+		</div>
+		<div class="modalbox02__btn-close">
+			<button class="btn03 btn03--white _closeModalBtn">關閉</button>
+		</div>
+	</div>
+<!-- /.modalbox02 --></div>
+
+<div class="comico-global-search _globalSearchLayer">
+  <div class="comico-global-search__action">
+    <div class="comico-global-search__close">
+      <p><button type="button" class="_toggleSearchLayer">取消</button></p>
+    </div>
+    <form action="https://www.comico.com.tw/search/index.nhn" post="get" class="comico-global-search__form" role="search">
+      <div class="comico-global-search__form-inner">
+        <div class="comico-global-search__input-outer">
+          <input name="searchWord" type="search" id="globalSearchInput" class="comico-global-search__input" placeholder="以作品名・作家名搜尋" title="以作品名・作家名搜尋" value="" required />
+        </div>
+        <input type="submit" class="comico-global-search__submit" value="搜尋" title="搜尋" />
+        <div class="comico-global-search__form-border"></div>
+      </div>
+    </form>
+  </div>
+<table>
+</table>
+<!-- /.comico-global-search --></div>
+<!-- /.stage__body --></div>
+<!-- /.stage --></div>
+<div class="dialog-otn _entranceOtonaLayer">
+  <div class="dialog-otn__window">
+    <div class="dialog-otn__body">
+	    <p class="o-hidden">歡迎，來到成人世界的大門。</p>
+	    <p class="dialog-otn__lead01">請選擇<br>喜歡的類型。</p>
+	    <ul>
+		    <li class="dialog-otn__enter01"><a href="/webonly/mens/index.nhn"><img src="https://images.comico.com.tw/tw/syn/spn/common/dialog/otn/btn_enter_01.png" alt="成人" width="72" /></a></li>
+		    <li class="dialog-otn__enter02"><a href="/webonly/bl/index.nhn"><img src="https://images.comico.com.tw/tw/syn/spn/common/dialog/otn/btn_enter_02.png" alt="BL" width="72" /></a></li>
+		    <li class="dialog-otn__enter03"><a href="/webonly/tl/index.nhn"><img src="https://images.comico.com.tw/tw/syn/spn/common/dialog/otn/btn_enter_03.png" alt="TL" width="72" /></a></li>
+	    </ul>
+	    <p class="dialog-otn__lead02">請注意，部分內容含有成人內容</p>
+	    <p class="dialog-otn__close"><button class="btn03 btn03--white _globalModalBoxCloseBtn" type="button">關閉</button></p>
+    </div>
+  </div>
+<!-- /.dialog-otn --></div>
+<script src="https://static.comico.com.tw/tw/syn/spn/js/manga/article/plusMangaListApp/app.1.11.0.js" async></script></body>
+</html>

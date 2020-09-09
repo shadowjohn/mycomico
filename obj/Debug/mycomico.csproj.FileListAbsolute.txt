@@ -1,0 +1,13 @@
+E:\mytools\mycomico\mycomico\obj\Debug\mycomico.csprojAssemblyReference.cache
+E:\mytools\mycomico\mycomico\obj\Debug\mycomico.Form1.resources
+E:\mytools\mycomico\mycomico\obj\Debug\mycomico.Properties.Resources.resources
+E:\mytools\mycomico\mycomico\obj\Debug\mycomico.csproj.GenerateResource.cache
+E:\mytools\mycomico\mycomico\obj\Debug\mycomico.csproj.CoreCompileInputs.cache
+E:\mytools\mycomico\mycomico\bin\Debug\mycomico.exe.config
+E:\mytools\mycomico\mycomico\bin\Debug\mycomico.exe
+E:\mytools\mycomico\mycomico\bin\Debug\mycomico.pdb
+E:\mytools\mycomico\mycomico\obj\Debug\mycomico.exe
+E:\mytools\mycomico\mycomico\obj\Debug\mycomico.pdb
+E:\mytools\mycomico\mycomico\bin\Debug\Newtonsoft.Json.dll
+E:\mytools\mycomico\mycomico\bin\Debug\Newtonsoft.Json.xml
+E:\mytools\mycomico\mycomico\obj\Debug\mycomico.csproj.CopyComplete
