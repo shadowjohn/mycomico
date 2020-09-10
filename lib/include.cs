@@ -16,6 +16,7 @@ using System.Threading;
 using System.Diagnostics;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
+using System.Windows.Forms;
 
 namespace utility
 {
@@ -448,6 +449,10 @@ namespace utility
         }
         public byte[] file_get_contents_post(string url, Dictionary<string, string> posts)
         {
+            return file_get_contents_post(url, posts, null);
+        }
+        public byte[] file_get_contents_post(string url, Dictionary<string, string> posts, Dictionary<string, object> options = null)
+        {
             //NameValueCollection postParameters = new NameValueCollection();
             string[] mPostData = new string[posts.Keys.Count];
             int step = 0;
@@ -457,9 +462,9 @@ namespace utility
                 mPostData[step] = post_encode_string(k) + "=" + post_encode_string(posts[k]);
                 step++;
             }
-            return file_get_contents_post(url, implode("&", mPostData));
+            return file_get_contents_post(url, implode("&", mPostData), options);
         }
-        public byte[] file_get_contents_post(string url, string postData)
+        public byte[] file_get_contents_post(string url, string postData, Dictionary<string, object> options = null)
         {
             HttpWebRequest httpWReq =
             (HttpWebRequest)WebRequest.Create(url);
@@ -470,13 +475,42 @@ namespace utility
 
             httpWReq.Method = "POST";
             httpWReq.ContentType = "application/x-www-form-urlencoded";
-            httpWReq.UserAgent = "user_agent','Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1)";
+            httpWReq.UserAgent = "user_agent','Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/66.0";
             httpWReq.Proxy = null;
             httpWReq.Timeout = 60000;
             //httpWReq.Referer = HttpContext.Current.Request.ServerVariables["SERVER_NAME"];
             //httpWReq.Referer = url;//getSystemKey("HTTP_REFERER");
             httpWReq.ContentLength = data.Length;
 
+
+            var cookies = new CookieContainer();
+            if (options != null && options.ContainsKey("cookie_domain") && options.ContainsKey("cookie_data"))
+            {
+                //System.Windows.Forms.WebBrowser _wb = (System.Windows.Forms.WebBrowser)options["webBrowser"];
+                //From : https://stackoverflow.com/questions/15049877/getting-webbrowser-cookies-to-log-in
+                string domain = options["cookie_domain"].ToString();
+                string cookie = options["cookie_data"].ToString();
+                Console.WriteLine("domain:" + domain);
+                Console.WriteLine("cookie:" + cookie);
+                httpWReq.CookieContainer = GetCookieContainer(domain, cookie);
+                //cookies.SetCookies(_wb.Document.Url, _wb.Document.Cookie.Replace(";", ","));
+            }
+            if (options != null && options.ContainsKey("referer"))
+            {
+                httpWReq.Referer = options["referer"].ToString();
+            }
+            if (options != null && options.ContainsKey("accept"))
+            {
+                httpWReq.Accept = options["accept"].ToString();
+            }
+            if (options != null && options.ContainsKey("headers"))
+            {
+                List<string> headers = (List<string>)options["headers"];
+                for (int i = 0, max_i = headers.Count; i < max_i; i++)
+                {
+                    httpWReq.Headers.Add(headers[i]);
+                }
+            }
             using (Stream stream = httpWReq.GetRequestStream())
             {
                 stream.Write(data, 0, data.Length);
@@ -492,6 +526,21 @@ namespace utility
             return byteData;
             //byte[] responseString = new StreamReader(response.GetResponseStream()).ToArray();
 
+        }
+        private CookieContainer GetCookieContainer(string domain, string cookieStr)
+        {
+            CookieContainer myCookieContainer = new CookieContainer();
+            string[] cookstr = cookieStr.Split(';');
+            foreach (string str in cookstr)
+            {
+                string[] cookieNameValue = str.Split('=');
+                Cookie ck = new Cookie(cookieNameValue[0].Trim().ToString(), cookieNameValue[1].Trim().ToString());
+                ck.Domain = domain;  // 必須寫對.
+                ck.Expires = DateTime.Now.AddHours(1);
+                myCookieContainer.Add(ck);
+            }
+
+            return myCookieContainer;
         }
         public string trim(string input)
         {

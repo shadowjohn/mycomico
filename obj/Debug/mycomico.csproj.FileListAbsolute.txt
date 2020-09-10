@@ -11,3 +11,16 @@ E:\mytools\mycomico\mycomico\obj\Debug\mycomico.pdb
 E:\mytools\mycomico\mycomico\bin\Debug\Newtonsoft.Json.dll
 E:\mytools\mycomico\mycomico\bin\Debug\Newtonsoft.Json.xml
 E:\mytools\mycomico\mycomico\obj\Debug\mycomico.csproj.CopyComplete
+F:\mytools\mycomico\bin\Debug\mycomico.exe.config
+F:\mytools\mycomico\bin\Debug\mycomico.exe
+F:\mytools\mycomico\bin\Debug\mycomico.pdb
+F:\mytools\mycomico\bin\Debug\Newtonsoft.Json.dll
+F:\mytools\mycomico\bin\Debug\Newtonsoft.Json.xml
+F:\mytools\mycomico\obj\Debug\mycomico.csprojAssemblyReference.cache
+F:\mytools\mycomico\obj\Debug\mycomico.Form1.resources
+F:\mytools\mycomico\obj\Debug\mycomico.Properties.Resources.resources
+F:\mytools\mycomico\obj\Debug\mycomico.csproj.GenerateResource.cache
+F:\mytools\mycomico\obj\Debug\mycomico.csproj.CoreCompileInputs.cache
+F:\mytools\mycomico\obj\Debug\mycomico.csproj.CopyComplete
+F:\mytools\mycomico\obj\Debug\mycomico.exe
+F:\mytools\mycomico\obj\Debug\mycomico.pdb
